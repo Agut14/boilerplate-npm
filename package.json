@@ -11,5 +11,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "práctica package Json"
+
 }
